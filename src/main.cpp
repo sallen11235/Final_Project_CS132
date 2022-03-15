@@ -7,19 +7,22 @@ lumberjacks. The hunters will hunt deer for food, the lumberjacks will cut down 
 a tree is cut down they will build a house. There are also tigers roaming about, which only 
 hunters can stand a chance against.
 
+Our project time log:
+https://docs.google.com/document/d/1KiuJqJVmSJtbU3N5LMyqXaZzCb5KfMjcwh2K-tIn_0Y/edit?usp=sharing
+
 As for this main() file, it simply creates the GUI.*/
 
 #include "Gui.h"
 
 int main() {
     //Changable Parameters:
-    int MODEL_SIZE = 200;
+    int MODEL_SIZE = 500;
     int SQUARE_SIZE = 20;
     int TIGER_NUM = 0;
     int HUNTER_NUM = 0;
-    int LUMBER_NUM = 0;
-    int TREE_NUM = 0;
-    int DEER_NUM =5;
+    int LUMBER_NUM = 1;
+    int TREE_NUM = 100;
+    int DEER_NUM = 0;
    
     new Gui(MODEL_SIZE, SQUARE_SIZE, TIGER_NUM, HUNTER_NUM, LUMBER_NUM, TREE_NUM, DEER_NUM);
     return 0;
