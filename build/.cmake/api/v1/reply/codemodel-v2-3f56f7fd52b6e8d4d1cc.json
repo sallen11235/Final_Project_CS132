@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sgl",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "StarterProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StarterProject-Debug-30a453e62c3faa278035.json",
+					"name" : "StarterProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StarterProject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StarterProject_autogen-Debug-092bc9471068028f68cb.json",
+					"name" : "StarterProject_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+		"source" : "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

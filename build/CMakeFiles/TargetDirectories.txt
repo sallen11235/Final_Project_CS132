@@ -1,0 +1,4 @@
+C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build/CMakeFiles/StarterProject.dir
+C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build/CMakeFiles/edit_cache.dir
+C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build/CMakeFiles/StarterProject_autogen.dir

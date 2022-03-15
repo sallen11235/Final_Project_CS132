@@ -1,0 +1,327 @@
+[
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\StarterProject_autogen\\mocs_compilation.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\build\\StarterProject_autogen\\mocs_compilation.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build/StarterProject_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\console.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\console.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/console.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gbrowserpane.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gbrowserpane.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gbrowserpane.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gbutton.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gbutton.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gbutton.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gcanvas.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gcanvas.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gcanvas.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gcheckbox.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gcheckbox.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gcheckbox.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gchooser.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gchooser.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gchooser.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gclipboard.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gclipboard.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gclipboard.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gcolor.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gcolor.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gcolor.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gcolorchooser.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gcolorchooser.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gcolorchooser.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gconsolewindow.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gconsolewindow.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gconsolewindow.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gcontainer.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gcontainer.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gcontainer.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gdiffgui.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gdiffgui.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gdiffgui.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gdiffimage.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gdiffimage.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gdiffimage.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gdownloader.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gdownloader.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gdownloader.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gdrawingsurface.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gdrawingsurface.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gdrawingsurface.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gevent.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gevent.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gevent.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\geventqueue.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\geventqueue.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/geventqueue.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gexceptions.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gexceptions.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gexceptions.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gfilechooser.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gfilechooser.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gfilechooser.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gfont.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gfont.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gfont.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gfontchooser.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gfontchooser.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gfontchooser.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\ginit.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\ginit.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/ginit.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\ginteractor.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\ginteractor.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/ginteractor.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\glabel.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\glabel.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/glabel.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\glayout.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\glayout.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/glayout.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gmath.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gmath.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gmath.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gobjects.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gobjects.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gobjects.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gobservable.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gobservable.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gobservable.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\goptionpane.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\goptionpane.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/goptionpane.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gradiobutton.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gradiobutton.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gradiobutton.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gscrollbar.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gscrollbar.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gscrollbar.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gscrollpane.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gscrollpane.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gscrollpane.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gslider.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gslider.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gslider.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gsound.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gsound.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gsound.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gspacer.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gspacer.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gspacer.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gtable.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gtable.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gtable.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gtextarea.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gtextarea.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gtextarea.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gtextfield.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gtextfield.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gtextfield.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gthread.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gthread.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gthread.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gtimer.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gtimer.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gtimer.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gtypes.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gtypes.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gtypes.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gversion.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gversion.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gversion.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\gwindow.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\gwindow.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/gwindow.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\librarymain.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\librarymain.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/librarymain.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\mainwrapper.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\mainwrapper.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/mainwrapper.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\privatediff.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\privatediff.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/privatediff.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\privatefilelib.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\privatefilelib.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/privatefilelib.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\privateregexpr.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\privateregexpr.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/privateregexpr.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\privatestrlib.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\privatestrlib.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/privatestrlib.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\qtgui.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\qtgui.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/qtgui.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\lib\\require.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\lib\\require.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/lib/require.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Building.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Building.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Building.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Creature.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Creature.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Creature.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Deer.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Deer.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Deer.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Entity.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Entity.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Entity.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Environment.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Environment.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Environment.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Gui.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Gui.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Gui.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Hunter.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Hunter.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Hunter.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Lumberjack.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Lumberjack.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Lumberjack.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Model.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Model.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Model.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Tiger.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Tiger.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Tiger.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\Tree.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\Tree.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/Tree.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\entitytypes.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\entitytypes.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/entitytypes.cpp"
+},
+{
+  "directory": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -std=gnu++11 -o CMakeFiles\\StarterProject.dir\\src\\main.cpp.obj -c \"C:\\Users\\jdman\\OneDrive\\Documents\\School Research\\EDCC Winter22\\projects\\P7_finalProject\\src\\main.cpp\"",
+  "file": "C:/Users/jdman/OneDrive/Documents/School Research/EDCC Winter22/projects/P7_finalProject/src/main.cpp"
+}
+]
