@@ -1,0 +1,44 @@
+/*Joshua Lindquist & Sarah Allen
+CS132 Winter 2022
+Final Project: Simulation
+
+Class main author:
+
+Cpp file for Animal class */
+
+#include "Animal.h"
+
+Animal::Animal() {}
+
+bool Animal::isAlive() {
+    return alive;
+}
+
+bool Animal::isAwake() {
+    return awake;
+}
+
+void Animal::onLose() {
+    alive = false;
+}
+
+void Animal::onMate() {}
+void Animal::onMateEnd() {}
+
+void Animal::onSleep() {
+    awake = false;
+}
+
+void Animal::onWakeUp() {
+    awake = true;
+}
+
+void Animal::onWin() {}
+
+Direction Animal::getMove() {
+    return CENTER;
+}
+
+Attack Animal::fight() {
+    return FORFEIT;
+}

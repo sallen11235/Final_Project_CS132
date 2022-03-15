@@ -1,0 +1,27 @@
+/*Joshua Lindquist & Sarah Allen
+CS132 Winter 2022
+Final Project: Simulation
+
+Class main author:
+
+Cpp file for the Villager class*/
+
+#include "Villager.h"
+
+Villager::Villager() {}
+bool Villager::isAlive() {}
+bool Villager::isAwake() {}
+void Villager::onLose() {}
+void Villager::onMate() {}
+void Villager::onMateEnd() {}
+void Villager::onSleep() {}
+void Villager::onWakeUp() {}
+void Villager::onWin() {}
+
+Direction Villager::getMove() {
+    return CENTER;
+}
+
+Attack Villager::fight() {
+    return FORFEIT;
+}

@@ -1,0 +1,50 @@
+/*Sarah Allen & Joshua Lindquist
+CS132 Winter 2022
+Final Project: Simulation
+
+Class main author:
+
+Header for Animal class, defining non-human and non-plant behavior */
+
+#ifndef _ANIMAL_H
+#define _ANIMAL_H
+
+#include "Entity.h"
+#include "Creature.h"
+//                                     UUUUH maybe combine with Villager into one class? Mammals or ambulators or smth
+
+/*JL: Ya we should either move some of this into entity and not use it for trees and buildings or we should make a parent 
+class that takes care of most of this*/
+
+class Animal : public Entity {
+public:
+
+    Animal();
+    //Returns true until Animal loses a fight, destructing the animal
+    virtual bool isAlive();
+
+    //Returns true until onSleep() sets to false
+    virtual bool isAwake();
+
+    //Sets isAlive() to return false
+    virtual void onLose();
+
+    //                                                           NGL idk how to describe these
+    virtual void onMate();
+    virtual void onMateEnd();
+    virtual void onSleep();
+    virtual void onWakeUp();
+    virtual void onWin();
+
+    //Default move of CENTER
+    virtual Direction getMove();
+
+    //Default attack of FORFEIT
+    virtual Attack fight();
+
+private:
+bool alive;
+bool awake;
+};
+
+#endif

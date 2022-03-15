@@ -1,0 +1,49 @@
+/*Sarah Allen & Joshua Lindquist
+CS132 Winter 2022
+Final Project: Simulation
+
+Class main author: 
+
+Header file for the Villager class, defining the behavior of the humanoid objects.
+
+
+#ifndef _VILLAGER_H
+#define _VILLAGER_H
+
+#include "Entity.h"
+#include "Creature.h"
+
+class Villager : public Entity {
+public:    
+    //Constructor
+    Villager();
+
+    //Returns true until Villager loses a fight, destructing the villager
+    virtual bool isAlive();
+
+    //Returns true until onSleep() sets to false
+    virtual bool isAwake();
+
+    //Sets isAlive() to return false
+    virtual void onLose();
+
+    //                                                           NGL idk how to describe these
+    virtual void onMate();
+    virtual void onMateEnd();
+    virtual void onSleep();
+    virtual void onWakeUp();
+    virtual void onWin();
+
+    //Default move of CENTER
+    virtual Direction getMove();
+
+    //Default attack of FORFEIT
+    virtual Attack fight();
+
+private:
+    bool alive;
+    bool awake;
+};
+
+#endif
+*/
