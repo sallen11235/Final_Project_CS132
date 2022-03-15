@@ -65,7 +65,6 @@ string Entity::getNeighbor(Direction dir) const{
     if (dir < 0 || dir >= DIRECTION_COUNT) {
         return "";
     }
-    //cout << "nebs: " << neighbors[dir] << endl;
     return neighbors[dir];
 }
 

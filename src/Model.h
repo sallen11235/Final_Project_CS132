@@ -28,7 +28,7 @@ public:
 
     //Calls the Entity's getMove() return, then moves it to its new spot on the map. If the move
     //would place the Entity out of bounds, it will wrap around to the opposite side of the map.
-    void addEntity(int row, int col, Entity* animal, vector<vector<Entity*>>* oldMap);
+    void addEntity(int row, int col, Entity* animal);
         
     //Returns a pointer to the Entity stored in the specified spot in the map
     Entity* getEntity(int row, int col);

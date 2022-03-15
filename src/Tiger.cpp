@@ -27,7 +27,6 @@ Direction Tiger::getMove() {
    //Check for anything nearby and exclude other Cats if the Cat has mated.
    for (int i = 0; i < 4; i++) {
         if ((getNeighbor(look[i]) == "\xF0\x9F\x90\x85" && !hasMated) || (getNeighbor(look[i]) != "" && getNeighbor(look[i]) != "\xF0\x9F\x90\x86")) {
-            //cout << "getNeighbor: " << look[i] << endl;
             return look[i];
         }
    }

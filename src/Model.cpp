@@ -79,13 +79,10 @@ int Model::getSize() {
 //Entity* Model::typeTranslator(string type){}
 
 void Model::mate(Entity* creature1) {
-    cout << "Reached mate!" << endl;
     //We need to add a new baby
     //For humans, baby will always take after creature1
     string creature1Type = creature1->getType();
-    cout << "Got type: " << creature1Type << endl;
     Entity* baby = new Creature; //Not null? Please don't break?
-    cout << "Got baby" << endl;
 
     //Get baby's class
     if (creature1Type == "Deer") {
@@ -98,8 +95,10 @@ void Model::mate(Entity* creature1) {
         baby = new Tiger();
     }
 
-cout << "Got baby type: " << baby->getType() << endl;
-    //Place baby in available empty spot.
+
+
+
+  //Place baby in available empty spot.
     int x = creature1->getX();
     int y = creature1->getY();
     if (modelNeighbor(x, y, NORTH) == nullptr) {
@@ -115,19 +114,14 @@ cout << "Got baby type: " << baby->getType() << endl;
         (*map)[x][y] = baby;
         baby->setPos(x, y);
     } //If none available the baby died from childbirth complications :'(
-        cout << "Got to end of mate" << endl;
 }
 
 Entity* Model::fight(Entity* creature1, Entity* creature2) {
     //get the weapons for each creature
-    cout << "Reached fight function!" << endl;
     Attack weapon1 = creature1->fight();
-    cout << "Got first weapon: " << creature1->getType() << weapon1 << endl;
     Attack weapon2 = creature2->fight();
-    cout << "Got second weapon: " << weapon2 << endl;
 
     Entity* winner;
-    cout << "Weapons: " << weapon1 << " " << weapon2 << endl;
     if ((weapon2 == FORFEIT) || (weapon1 == BITE && weapon2 == CHOP)) {
         winner = creature1;
     } else if ((weapon1 == STAB && weapon2 == BITE) || (weapon1 == BITE && weapon2 == STAB)) {
@@ -164,8 +158,7 @@ Entity* Model::modelNeighbor(int row, int col, Direction dir) {
     }
 }
 
-void Model::addEntity(int row, int col, Entity* thing, vector<vector<Entity*>>* oldMap) {
-    cout << thing->getType();                                                                   //ERASE THIS
+void Model::addEntity(int row, int col, Entity* thing) {                                                          
         Direction dir = thing->getMove();
         string neighbor = "";
     if (dir != CENTER) { //Entity can't be its own neighbor
@@ -191,11 +184,10 @@ void Model::addEntity(int row, int col, Entity* thing, vector<vector<Entity*>>* 
         (*map)[row][col] = thing;
     }
 
-    cout << " Neighbor: " << neighbor << endl;
     if(neighbor != "") {
         //Entity* otherThing = (*oldMap)[newRow][newCol];
-        //Entity* otherThing = modelNeighbor(row, col, dir);
-        Entity* otherThing = modelNeighbor(newRow, newCol, dir);
+        Entity* otherThing = modelNeighbor(row, col, dir);
+        //Entity* otherThing = modelNeighbor(newRow, newCol, dir);
         
         if (neighbor == thing->getType() //If matching Entities or both humans
         || (neighbor == "Hunter" && thing->getType() == "Lumberjack") 
@@ -239,7 +231,6 @@ void Model::update() {
                
                 //Ensures each thing knows where it is
                 thing->setPos(row, col);
-                cout << "Thing pos: "<< thing->getX() << ", " << thing->getY() << endl;
                 
                 //Checks each direction for neighbors, would be good to make this a new function.
                 for (Direction dir : {CENTER, NORTH, EAST, SOUTH, WEST}) {
@@ -268,7 +259,7 @@ void Model::update() {
                     }
                 }
                 //Adds everything onto the map, this needs to be the last thing that happens here
-                addEntity(row, col, thing, oldMap);
+                addEntity(row, col, thing);
             }
         }
     }
