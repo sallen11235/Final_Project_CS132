@@ -2,13 +2,13 @@
 CS132 Winter 2022
 Final Project: Simulation 
 
+Our project time log:
+https://docs.google.com/document/d/1KiuJqJVmSJtbU3N5LMyqXaZzCb5KfMjcwh2K-tIn_0Y/edit?usp=sharing
+
 For our final project we decided to simulate a village. The villagers consist of hunters and
 lumberjacks. The hunters will hunt deer for food, the lumberjacks will cut down trees, and once 
 a tree is cut down they will build a house. There are also tigers roaming about, which only 
 hunters can stand a chance against.
-
-Our project time log:
-https://docs.google.com/document/d/1KiuJqJVmSJtbU3N5LMyqXaZzCb5KfMjcwh2K-tIn_0Y/edit?usp=sharing
 
 As for this main() file, it simply creates the GUI.*/
 
